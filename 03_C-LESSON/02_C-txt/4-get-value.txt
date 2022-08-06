@@ -1,0 +1,20 @@
+1. How to get data from keyboard
+---------------------------------------
+-Scanf();
+Example:
+int num;
+scanf("%d",&num);
+---------------------------------
+-getchar();
+-putchar();
+Example: 
+int text;
+text = getchar();
+putchar();
+----------------------------------
+-gets();
+-puts();
+Example: int text;
+gets(text);
+puts(text); or printf("%s", text);
+----------------------------------

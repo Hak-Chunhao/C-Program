@@ -1,0 +1,20 @@
+							How to decalre variable name:
+datatype variablName;
+datatype variableName1, variableName2, ...;
+-----------------------------------------------------
+Datatype: char,short,long,int,float,double,signed,unsigned
+--------------------------------------------------------------
+-variables name have to start with character(Capital[A-Z]or small[a-z]Letters) or underscore(_)
+-Blanks(Tab or Space) & Commas are not allowed
+-Variables name are case sensitive
+-Can not use special symbols(!@#$%^&*...) only underscore(_) are allowed
+-Can not start with numbers but can be next to letter, or underscore infront(not standard)
+-Can not use the same as C programming keywords(also called as Reserved words):
+	auto		double		int		struct
+	break		else		long		switch
+	case		enum		register 	typedef
+	char		extern		return		union
+	const		float		short		unsigned
+	continue	for		signed		void		
+	default		goto		sizeof		volatile
+	do		if		static		while

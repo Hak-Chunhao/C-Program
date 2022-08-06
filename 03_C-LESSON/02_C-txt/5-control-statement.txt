@@ -1,0 +1,50 @@
+1. Control statement
+-if statement
+-if... else statement
+--------------------------------
+-Ternary operator
+(condition) ? ("True") : ("False");
+-------------------------------
+-switch
+case1:
+statement;
+break;
+---------------------------------
+-switch-range
+case 1, case 2, case 3, case 4:
+statement;
+break;
+or 
+case 1 ... 4:
+Statement;
+break;
+----------------------------------
+-Nested-statement    
+if(condition){			
+statement
+}else if(condition){
+statement
+}else{
+}
+-Nested-2
+Example: go to see project.
+----------------------------------------
+-loop
+for(initialize(Startvalue),condition,end(incre/decre){
+Statement;
+}
+-------------------------------------------
+-While loop
+startvalue;
+while(condition){
+statement;
+incre/decre;
+}
+-------------------------------------------
+-Do while loop
+
+Startvalue
+do{
+statement;
+incre/decre;
+}while(condition);

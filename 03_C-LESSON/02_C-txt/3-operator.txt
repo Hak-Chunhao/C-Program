@@ -1,0 +1,36 @@
+1. = Assignment operator
+-------------------------------------
+2. Arithmetic operator
++ Addition 
+- Substract
+* Multiplication
+/ Division
+% Modulus or Remainder (can't use with float or double)
+------------------------------------
+3. Compound operator /Compound Assignment operator
++=
+-=
+*=
+/=
+%=
+---------------------------------------------------------------------------
+4. Increment and Decrement operator assignment
+++ Increment(Prefix/Postfix) Example: num++;/ num += 1;// num = num + 1;
+Prefix: num = 	i++ the same result		
+Postfix: num = 	++i result increase 						      					               
+-- Decrement(Prefix/Postfix) Example: num--;/ num -= 1;// num = num - 1;
+Prefix: num = 	i-- the same result		
+Postfix: num = 	--i result increase 						      					               
+------------------------------------------------------------------------------
+5. Comparison operators/ relational operators
+== Equal to
+!= Not equal to
+> Greater than
+< less than
+>= Greater than or Equal 
+<= Less than or Equal
+---------------------------------------------------------------------------------
+6. Logical Operators( We usually use this with Comparison operators)
+&& Logical AND
+|| Logical OR
+!  Logical NOT
